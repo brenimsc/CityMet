@@ -68,8 +68,7 @@ Este projeto utiliza as seguintes APIs públicas:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/citymet.git
-cd citymet
+git clone https://github.com/brenimsc/CityMet
 ```
 
 2. Obtenha uma chave de API gratuita:
@@ -109,8 +108,8 @@ Este projeto foi desenvolvido para demonstrar:
 ## 👨‍💻 Autor
 
 **[Breno Carvalho]**
-- LinkedIn: [seu-linkedin](https://linkedin.com/in/breno-carvalho-63221b174)
-- GitHub: [@seu-usuario](https://github.com/brenimsc)
+- LinkedIn: [linkedin](https://linkedin.com/in/breno-carvalho-63221b174)
+- GitHub: [brenimsc](https://github.com/brenimsc)
 - Email: brenocarvs@gmail.com
 
 ---
