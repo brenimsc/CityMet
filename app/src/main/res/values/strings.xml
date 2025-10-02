@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CityMet</string>
+    <string name="clean">Limpar</string>
+    <string name="close">Fechar</string>
+    <string name="open">Abrir</string>
+    <string name="type_to_search">Digite para buscar...</string>
+    <string name="select">Selecione</string>
+    <string name="error">Erro ao carregar</string>
+</resources>
